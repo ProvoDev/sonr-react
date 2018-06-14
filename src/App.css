@@ -21,11 +21,12 @@ a.confirm-btn {
     color: #ffffff;
 }
 
-.nav-bottom {
+#nav_bottom {
     position: fixed;
-    bottom: 10;
-    right: 10;
-    left: 10;
+    bottom: 0;
+    right: 0;
+    left: 0;
+
 }
 
 .list-people {
@@ -98,7 +99,6 @@ h3 {
     }
 
     .nav-bottom {
-
         top:70;
         left:0;
         right: 0;
